@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "image" : "1.jpg",
+            "name" : "Ritmix ROM-111 черный",
+            "price": 100,
+            "article" : "T1",
+            "available":true,
+            "category" : "USB"
+        },
+        {
+            "image" : "2.jpg",
+            "name" : "Defender OPTICAL MS-900 голубой",
+            "price": 120,
+            "article" : "T2",
+            "available":true,
+            "category" : "USB"
+        },
+        {
+            "image" : "3.jpg",
+            "name" : "Ritmix ROM-202 черный",
+            "price": 130,
+            "article" : "T3",
+            "available":true,
+            "category" : "Проводные"
+        },
+        {
+            "image" : "4.jpg",
+            "name" : "Aceline CM-408BU черный",
+            "price": 140,
+            "article" : "T4",
+            "available":true,
+            "category" : "Проводные"
+        },
+        {
+            "image" : "5.jpg",
+            "name" : "DEXP CM-408BU черный",
+            "price": 150,
+            "article" : "T5",
+            "available":true,
+            "category" : "USB"
+        },
+        {
+            "image" : "6.jpg",
+            "name" : "Oklick 115S черный",
+            "price": 160,
+            "article" : "T6",
+            "available":true,
+            "category" : "USB"
+        },
+        {
+            "image" : "7.jpg",
+            "name" : "Oklick 385M красный",
+            "price": 170,
+            "article" : "T7",
+            "available":true,
+            "category" : "Проводные"
+        },
+        {
+            "image" : "8.jpg",
+            "name" : "Oklick 385M черный",
+            "price": 180,
+            "article" : "T8",
+            "available":true,
+            "category" : "Проводные"
+        },
+        {
+            "image" : "9.jpg",
+            "name" : "Smartbuy ONE 359G белый",
+            "price": 190,
+            "article" : "T9",
+            "available":true,
+            "category" : "Проводные"
+        }
+    ]
+  }
